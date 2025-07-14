@@ -46,14 +46,13 @@ O notebook já contém todos os resultados processados e pode ser executado via 
 manutencao-preditiva-maquinas/  
 ├── notebooks/  
 │   └── Man_Predit_Maquinas.ipynb  
-├── README.md  
-├── requirements.txt  
+├── README.md    
 └── LICENSE
 
 ## Autor
 
 Heitor Tonet  
-Engenheiro de Controle e Automação e Cientista de Dados, com foco em soluções inteligentes para manutenção preditiva, otimização de processos industriais e sistemas autônomos.
+Engenheiro de Controle e Automação e Cientista de Dados, com foco em aplicações industriais, mobilidade inteligente e modelagem preditiva aplicada ao mundo físico.
 
 ## Licença
 
